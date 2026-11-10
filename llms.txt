@@ -1,0 +1,13 @@
+# Kids Love Science Stories
+
+> Grandpa Benny's illustrated science stories by Ran Levi, read aloud, for children aged 6 to 8 on iPhone and iPad. Free to download: two stories are free, each of the other six is a one-time purchase of 1.99 USD (shared through Family Sharing). No subscription, no ads, no accounts, no tracking. Narration in English, Hebrew and Russian; story text and app in 15 languages.
+
+## Pages
+
+- [Home and support](https://allexp1.github.io/kidslovescience/): what the app is, price, the eight stories, languages, common questions, contact
+- [Home as markdown](https://allexp1.github.io/kidslovescience/index.md): the same page in plain markdown
+- [Privacy policy](https://allexp1.github.io/kidslovescience/privacy.html): no data collected, no ads, no tracking
+
+## Get the app
+
+- [App Store](https://apps.apple.com/app/id6823911169): Kids Love Science Stories, Education, rated 4+, made for ages 6 to 8
